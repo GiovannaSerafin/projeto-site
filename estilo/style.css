@@ -7,11 +7,10 @@
         background-color: #ad0bce;
     }
 
-
     main {
         background-color: #fff;
         width: 500px;
         margin:  auto;
         padding: 10px;
-        box-shadow: 3px 3px 5px #000;
+        box-shadow: 3px 3px 5px #00000044;
     }
